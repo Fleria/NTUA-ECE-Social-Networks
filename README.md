@@ -1,3 +1,3 @@
-Complete Jupyter notebooks for the 9th semester course *Social Network Analysis* of ECE, NTUA lab.
+Complete lab Jupyter notebooks for the course of Social Network Analysis of Electrical and Computer Engineering, National Technical University of Athens.
 
 
